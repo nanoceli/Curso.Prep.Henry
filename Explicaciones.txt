@@ -1,0 +1,14 @@
+Variables:
+Las variables son los elementos que vamos a guardar para poder tener siempre disponible en nuestro codigo.
+
+Strings: 
+Son las variables con formato de texto, es decir, palabras.
+
+Funciones:
+Es una ecucacion que al ingresarle variables nos devuelve el resulado segun el tipo de funcion.
+
+Declaraciones:
+Con las declaraciones condicionamos el resultado de las funciones dependiendo de las variables que tenemos.
+
+Valores booleanos:
+Son otro tipo de variables, que se utilizan para obtener 2 posibles respuestas a nuestras funciones.
