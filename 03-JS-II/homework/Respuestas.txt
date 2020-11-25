@@ -1,4 +1,4 @@
-Bucle for:
+Bucle for: 
 es una herramienta que tenemos de poder lograr que colocando una condicion a cumplir, y colocando el punto final hasta donde queremos que corra el codigo, podamos obtener una serie de datos bajo la condicion propuesta, de forma automatizada, sin tener que estar nosotros ante todos los datos que nos dan, generar la condicion para obtener el resultado.
 Operadores logicos:
 
