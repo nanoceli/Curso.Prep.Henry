@@ -1,0 +1,5 @@
+Objetos: Es un conjunto de propiedades de un elemento de mi codigo, que se la damos con el nombre y un valor asociado a ese nombre.
+Propiedades: Son las caracteristicas que le asociamos a un objeto.
+Metodo: Son las funciones que estan definidas como una propiedad dentro del objeto
+bucle for...in : Es un bucle que utilizamos para poder recorrer las propiedades y sus argumentos de nuestro objeto. Y devolverlo ordenadamente de cada objeto que tenemos.
+Notacion de puntos vs notacion de corchetes: La notacion de puntos tiene la ventaja de ser mas simple al escribir, contra la notacion de corchetes que es mas larga y con mayor probabilidad de que nos confundamos al escribirla.
