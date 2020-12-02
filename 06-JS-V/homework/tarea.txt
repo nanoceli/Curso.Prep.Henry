@@ -1,1 +1,4 @@
 Tarea
+Function constructors: Es una funcion donde citamos una clase y nosotros colocamos las propiedades que queremos que tengan los objetos dentro de esa clase, y luego se le asignan argumentos a esas propiedades. Es practico porque a todos los objetos de la clase se le van a dar las mismas propiedades.
+
+Prototype: Es un objeto el cual posee propiedades intrinsecas compartidas con objetos del mismo tipo.
